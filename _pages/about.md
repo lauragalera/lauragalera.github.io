@@ -10,6 +10,9 @@ redirect_from:
 
  I am currently a master's student in Artificial Intelligence in the [Department of Computer and Systems Sciences](https://www.su.se/department-of-computer-and-systems-sciences/) at [Stockholm University](https://www.su.se/cmlink/stockholm-university) (SU). Previously to joining SU, I obtained a B.Sc. in Computer Science with a specialization in Computing at the [University of Girona](https://www.udg.edu/en/), Spain, and graduated 1st in my promotion (class of 2022). I spent the last six months of my major at the Institute for Genomics and Bioinformatics at the [University of California, Irvine](https://uci.edu/) conducting my final thesis on detecting polyps in colonoscopy images using Convolutional Neural Networks. 
 
+
+
+
 In my free time, I enjoy working out and doing outdoor activities (hiking, skiing, swimming). I also dance bachata and salsa with a group of ladies. However, what I like the most is spending time with my cat Joia.  
 
-Feel free to contact me 
+Feel free to contact me by email if you want to get in touch or have any questions. I will do my best to help.
