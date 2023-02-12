@@ -13,6 +13,6 @@ redirect_from:
 My interests lie in the fields of databases and machine learning systems. They include data management, scalable data analysis, query processing, optimization for machine learning systems, and graph analysis. I aspire to work on developing software tools to create large-scale and efficient data processing pipelines. I am looking for job opportunities along this line.
 
 
-In my free time, I enjoy working out and doing outdoor activities (hiking, skiing, swimming). I also dance bachata and salsa with a group of ladies. However, what I like the most is spending time with my cat [Joia](https://lauragalera.github.io/_pages_/joia) .  
+In my free time, I enjoy working out and doing outdoor activities (hiking, skiing, swimming). I also dance bachata and salsa with a group of ladies. However, what I like the most is spending time with my cat [Joia](https://lauragalera.github.io/personal/joia) .  
 
 Feel free to contact me by email if you want to get in touch or have any questions. I will do my best to help.
