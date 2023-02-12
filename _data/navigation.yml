@@ -6,5 +6,5 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "Personal"
-  #  url: /markdown/
+  - title: "Personal"
+    url: /joia/
