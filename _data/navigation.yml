@@ -4,5 +4,5 @@ main:
   - title: "CV"
     url: /cv/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Personal"
+    url: /personal/
