@@ -12,9 +12,8 @@ I was born on October 22nd 2022, after my abandoned mum was rescued. A total of 
 Once I was two months old, I moved to Laura's house, where I've been living my best life eating yummy food, chasing birds, and taking long siestas like a good Spanish cat. I guess I am some sort of marquise. The images speak for themselves:
 
 <p align="center">
-  <img src="../images/baby.JPG" width="45%"/><<caption>My name is Joia</caption>
+  <img src="../images/baby.JPG" width="45%" />
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="../images/brothers.JPG" width="45%" /> 
 </p>
-
 
