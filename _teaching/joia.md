@@ -16,4 +16,18 @@ Once I was two months old, I moved to Laura's house, where I've been living my b
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="../images/brothers.JPG" width="45%" /> 
 </p>
-
+<p align="center">
+  <img src="../images/IMG_7632.JPG" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../images/IMG_7852.JPG" width="45%" /> 
+</p>
+<p align="center">
+  <img src="../images/IMG_8102.JPG" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../images/IMG_8187.JPG" width="45%" /> 
+</p>
+<p align="center">
+  <img src="../images/IMG_8541.JPG" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../images/IMG_8561.JPG" width="45%" /> 
+</p>
