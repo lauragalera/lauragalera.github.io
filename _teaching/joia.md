@@ -24,7 +24,7 @@ Once I was two months old, I moved to Laura's house, where I've been living my b
 <p align="center">
   <img src="../images/IMG_8102.JPG" width="45%" />
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="../images/IMG_8187.JPG" width="50%" /> 
+  <img src="../images/IMG_8187.JPG" width="45%" /> 
 </p>
 <p align="center">
   <img src="../images/IMG_8541.JPG" width="45%" />
@@ -32,12 +32,12 @@ Once I was two months old, I moved to Laura's house, where I've been living my b
   <img src="../images/IMG_8561.JPG" width="45%" /> 
 </p>
 <p align="center">
+  <img src="../images/IMG_9290.JPG" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../images/IMG_9338.JPG" width="45%" /> 
+</p>
+<p align="center">
   <img src="../images/IMG_8661.JPG" width="45%" />
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="../images/IMG_9377.JPG" width="45%" /> 
-</p>
-<p align="center">
-  <img src="../images/IMG_9290.JPG" width="45%" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="../images/IMG_9338.JPG" width="50%" /> 
 </p>
