@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
- I am currently a master's student in Artificial Intelligence in the [Department of Computer and Systems Sciences](https://www.su.se/department-of-computer-and-systems-sciences/) at [Stockholm University](https://www.su.se/cmlink/stockholm-university) (SU). Previously to joining SU, I obtained a B.Sc. in Computer Science with a specialization in Computing at the [University of Girona](https://www.udg.edu/en/), Spain, and graduated 1st in my promotion (class of 2022). I spent the last six months of my major at the Institute for Genomics and Bioinformatics at the [University of California, Irvine](https://uci.edu/) conducting my final thesis on detecting polyps in colonoscopy images using Convolutional Neural Networks. 
+ I am currently a master's student in Artificial Intelligence in the [Department of Computer and Systems Sciences](https://www.su.se/department-of-computer-and-systems-sciences/) at [Stockholm University](https://www.su.se/cmlink/stockholm-university) (SU). I am working on my master's thesis about Explainability in AI for ranking models as a result of a collaborative project with Spotify.
+ 
+  Previously to joining SU, I obtained a B.Sc. in Computer Science with a specialization in Computing at the [University of Girona](https://www.udg.edu/en/), Spain, and graduated 1st in my promotion (class of 2022). I spent the last six months of my major at the Institute for Genomics and Bioinformatics at the [University of California, Irvine](https://uci.edu/) conducting my final thesis on detecting polyps in colonoscopy images using Convolutional Neural Networks. 
 
 My interests lie in the fields of databases and machine learning systems. They include data management, scalable data analysis, query processing, optimization for machine learning systems, and graph analysis. I aspire to work on developing software tools to create large-scale and efficient data processing pipelines. I am looking for job opportunities along this line.
 
