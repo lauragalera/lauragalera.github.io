@@ -3,6 +3,12 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "Notes"
+    url: /notes/
+
+  - title: "Certificates"
+    url: /certificates/
         
   - title: "Personal"
     url: /personal/
