@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master's student in Artificial Intelligence in the [Department of Computer and Systems Sciences](https://www.su.se/department-of-computer-and-systems-sciences/) at [Stockholm University](https://www.su.se/cmlink/stockholm-university) (SU). I am working on my master's thesis about Explainability in AI for ranking models as a result of a collaborative project with Spotify.
+I am a Software Engineer with a M.Sc. in Artificial Intelligence from the [Department of Computer and Systems Sciences](https://www.su.se/department-of-computer-and-systems-sciences/) at [Stockholm University](https://www.su.se/cmlink/stockholm-university) (SU). During my post-graduate studies, I worked on a collaborative project with Spotify about Explainability in AI for ranking models.
  
 Previously to joining SU, I obtained a B.Sc. in Computer Science with a specialization in Computing at the [University of Girona](https://www.udg.edu/en/), Spain, and graduated first in my class (class of 2022). I spent the final six months of my degree program at the Institute for Genomics and Bioinformatics at the [University of California, Irvine](https://uci.edu/) conducting my final thesis on detecting polyps in colonoscopy images using Convolutional Neural Networks. 
 
@@ -16,4 +16,4 @@ My interests lie in the fields of databases and machine learning systems. They i
 
 In my free time, I enjoy working out and doing outdoor activities (hiking, skiing, swimming). I also dance bachata and play guitar. However, what I like the most is spending time with my cat [Joia](https://lauragalera.github.io/personal/joia).  
 
-Feel free to contact me by email if you want to get in touch.
+Feel free to contact me on Linkedin if you want to get in touch.
