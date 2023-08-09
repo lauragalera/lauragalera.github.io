@@ -40,14 +40,14 @@ author_profile: true
     <td class="image-cell">
       <div class="image-container">
         <a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/">
-          <img src="../images/neo4j.png" alt="Image"/><br></a>
+          <img src="../images/neo4j.png" alt="Image"/><br><br><br></a>
          <span class="caption"> Neo4j Certified Professional</span>
       </div>
     </td>
     <td class="image-cell">
       <div class="image-container">
-        <a href="https://example.com/">
-          <img src="../images/aws_aa.png" alt="Image"/><br></a>
+        <a href="https://lauragalera.github.io">
+          <img src="../images/aws_aa.png" alt="Image"/><br><br><br></a>
          <span class="caption">AWS Solutions Architect Associate</span>
       </div>
     </td>
