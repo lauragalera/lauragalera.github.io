@@ -24,9 +24,9 @@ author_profile: true
 <table>
   <tr>
     <td><a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/">
-        <img src="../images/neo4j.png" alt="Image" width="100"/><br>
+        <img src="../images/neo4j.png" alt="Image" width="100"/><br></a>
         Neo4j Certified Professional
-      </a></td>
+      </td>
     <td>Data 3</td>
   </tr>
   <tr>
