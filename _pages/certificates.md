@@ -21,7 +21,7 @@ author_profile: true
     border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
   }
   .image-cell {
-    width: 33.33%;
+    width: 50%;
     border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
   }
   .image-container {
@@ -35,7 +35,7 @@ author_profile: true
     <td class="image-cell">
       <div class="image-container">
         <a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/">
-          <img src="../images/neo4j.png" alt="Image" width="100"/><br>
+          <img src="../images/neo4j.png" alt="Image" width=100%/><br>
           Neo4j Certified Professional
         </a>
       </div>
@@ -43,8 +43,8 @@ author_profile: true
     <td class="image-cell">
       <div class="image-container">
         <a href="https://example.com/">
-          <img src="your_second_image_url_here" alt="Image" width="100"/><br>
-          Another Link
+          <img src="../images/aws_aa.png" alt="Image" width=100%/><br>
+         AWS Solutions Architect Associate
         </a>
       </div>
     </td>
