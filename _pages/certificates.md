@@ -11,9 +11,9 @@ author_profile: true
   table {
     border-collapse: collapse;
     width: 100%;
+    border: none;
   }
   th, td {
-    border: 1px solid black;
     padding: 8px;
     text-align: left;
     background-color: transparent;
