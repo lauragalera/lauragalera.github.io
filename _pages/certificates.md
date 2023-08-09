@@ -21,7 +21,7 @@ author_profile: true
     border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
   }
   .image-cell {
-    width: 50%;
+    width: 33.33%;
     border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
   }
   .image-container {
