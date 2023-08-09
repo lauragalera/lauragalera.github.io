@@ -16,13 +16,14 @@ author_profile: true
     border: 1px solid black;
     padding: 8px;
     text-align: left;
-    background-color: rgba(255, 255, 255, 0); 
+    background-color: transparent;
+    text-align:center;
   }
 </style>
 
 <table>
   <tr>
-    <td style="text-align:center;"><a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/">
+    <td><a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/">
         <img src="../images/neo4j.png" alt="Image" width="100"/><br>
         Neo4j Certified Professional
       </a></td>
@@ -34,3 +35,4 @@ author_profile: true
     <td>Data 6</td>
   </tr>
 </table>
+
