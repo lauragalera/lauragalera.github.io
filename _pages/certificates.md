@@ -17,25 +17,39 @@ author_profile: true
     padding: 8px;
     text-align: left;
     background-color: transparent;
-    text-align:center;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
+  }
+  .image-cell {
+    width: 33.33%;
+    border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
+  }
+  .image-container {
+    display: block;
+    margin: 0 auto;
   }
 </style>
 
 <table>
   <tr>
-    <td><a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/">
-        <img src="../images/neo4j.png" alt="Image" width="100"/><br></a>
-        Neo4j Certified Professional
-      </td>
-        <td>
-        <img src="../images/aws_aa.png" alt="Image" width="100"/><br>
-        Neo4j Certified Professional
-      </td>
+    <td class="image-cell">
+      <div class="image-container">
+        <a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/">
+          <img src="../images/neo4j.png" alt="Image" width="100"/><br>
+          Neo4j Certified Professional
+        </a>
+      </div>
+    </td>
+    <td class="image-cell">
+      <div class="image-container">
+        <a href="https://example.com/">
+          <img src="your_second_image_url_here" alt="Image" width="100"/><br>
+          Another Link
+        </a>
+      </div>
+    </td>
   </tr>
   <tr>
-    <td>Data 4</td>
-    <td>Data 5</td>
-    <td>Data 6</td>
-  </tr>
-</table>
+    <td>Data
+
 
