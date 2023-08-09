@@ -29,6 +29,10 @@ author_profile: true
     margin: 0 auto;
     width: 50%;
   }
+  .caption {
+    font-size: 16px; /* Adjust the font size for the caption */
+    font-weight: bold; /* Add bold style to the caption */
+  }
 </style>
 
 <table>
@@ -37,14 +41,14 @@ author_profile: true
       <div class="image-container">
         <a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/">
           <img src="../images/neo4j.png" alt="Image"/><br></a>
-          Neo4j Certified Professional
+         <span class="caption"> Neo4j Certified Professional</span>
       </div>
     </td>
     <td class="image-cell">
       <div class="image-container">
         <a href="https://example.com/">
           <img src="../images/aws_aa.png" alt="Image"/><br></a>
-         AWS Solutions Architect Associate
+         <span class="caption">AWS Solutions Architect Associate</span>
       </div>
     </td>
   </tr>
