@@ -27,7 +27,10 @@ author_profile: true
         <img src="../images/neo4j.png" alt="Image" width="100"/><br></a>
         Neo4j Certified Professional
       </td>
-    <td>Data 3</td>
+        <td>
+        <img src="../images/aws_aa.png" alt="Image" width="100"/><br>
+        Neo4j Certified Professional
+      </td>
   </tr>
   <tr>
     <td>Data 4</td>
