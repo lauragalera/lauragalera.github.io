@@ -16,19 +16,16 @@ author_profile: true
     border: 1px solid black;
     padding: 8px;
     text-align: left;
-    background-color: rgba(255, 255, 255, 0.5); /* Adjust the last value (alpha) for transparency */
+    background-color: rgba(255, 255, 255, 0); 
   }
 </style>
 
 <table>
   <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
-    <th>Header 3</th>
-  </tr>
-  <tr>
-    <td>Data 1</td>
-    <td>Data 2</td>
+    <td style="text-align:center;"><a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/">
+        <img src="../images/neo4j.png" alt="Image" width="100"/><br>
+        Neo4j Certified Professional
+      </a></td>
     <td>Data 3</td>
   </tr>
   <tr>
