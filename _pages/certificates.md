@@ -27,6 +27,7 @@ author_profile: true
   .image-container {
     display: block;
     margin: 0 auto;
+    width: 50%;
   }
 </style>
 
@@ -42,9 +43,8 @@ author_profile: true
     <td class="image-cell">
       <div class="image-container">
         <a href="https://example.com/">
-          <img src="../images/aws_aa.png" alt="Image"/><br>
+          <img src="../images/aws_aa.png" alt="Image"/><br></a>
          AWS Solutions Architect Associate
-        </a>
       </div>
     </td>
   </tr>
