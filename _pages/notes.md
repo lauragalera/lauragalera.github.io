@@ -7,4 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-CS notes for everyone who can befenfit from
+Here are some notes I took when I was a student. Feel free to utilize them if they can be of any assistance.
+
+## Operating Systems
+
+## Functional Programming
+
+## Compilers
+
+## Object Oriented Programming
