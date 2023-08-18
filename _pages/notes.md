@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Here are some notes I took when I was a student. Feel free to utilize them if they can be of any assistance.
+Here are some notes I took when I was a student. Feel free to use them if they can be of any help.
 
 ## Operating Systems
 
