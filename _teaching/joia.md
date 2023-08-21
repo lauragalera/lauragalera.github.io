@@ -25,7 +25,7 @@ Once I was two months old, I moved to Laura's house, where I've been living my b
     border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
   }
   .image-cell {
-    width: 33.33%;
+    width: 100%;
     border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
   }
   .image-container {
