@@ -11,6 +11,10 @@ Here are some notes I took when I was a student. Feel free to use them if they c
 
 ## Operating Systems
 
+### Notes
+
+#### Chapter 1. [An Overview](ttps://lauragalera.github.io/files/overview_os.pdf) 
+
 ## Functional Programming
 
 ## Compilers
