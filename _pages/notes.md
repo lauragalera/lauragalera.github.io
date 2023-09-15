@@ -13,7 +13,7 @@ Here are some notes and solved exercises I did. Feel free to use them if they ca
 
 ### Notes
 
-#### Chapter 1. [An Overview](ttps://lauragalera.github.io/files/overview_os.pdf)  
+#### Chapter 1. [An Overview](https://lauragalera.github.io/files/overview_os.pdf)  
 
 ### Solved Exercises
 
