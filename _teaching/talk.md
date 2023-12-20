@@ -2,12 +2,12 @@
 title: "I Also Want to Be an Engineer"
 collection: personal
 permalink: /personal/talk
-description: "I spoke to students at my former high school about pursuing a degree in Computer Science and job opportunities"
+description: "I spoke to students at my former high school about pursuing a degree in Computer Engineering and job opportunities"
 ---
 
 A nostalgic visit to my alma mater as the year comes to an end!
 
-I took the opportunity to share my personal journey with the last-year students of the Institut Pla de l'Estany, reflecting on what brought me to study Computer Science and embark on a career path as a Data Engineer at Edpuzzle. With the aim of igniting the curiosity that led me to study engineering, we played a trivia to learn more about computers, and I spoke about the challenges, growth, and exciting possibilities that await them as they pursue their own interests. It was also cool to hear they had used Edpuzzle before!
+I took the opportunity to share my personal journey with the last-year students of the Institut Pla de l'Estany, reflecting on what brought me to study Computer Engineering and embark on a career path as a Data Engineer at Edpuzzle. With the aim of igniting the curiosity that led me to study engineering, we played a trivia to learn more about computers, and I spoke about the challenges, growth, and exciting possibilities that await them as they pursue their own interests. It was also cool to hear they had used Edpuzzle before!
 
 As Jean-Paul Sartre said, "Happiness is not doing what you want but wanting what you do."
 
@@ -45,12 +45,12 @@ You can find the slides (CAT) [here](https://lauragalera.github.io/files/I_also_
   <tr>
     <td class="image-cell">
       <div class="image-container">
-          <img src="../images/talk_1.png" alt="Image"/><br><br></a>
+          <img src="../images/talk_1.png" alt="Image"/>
       </div>
     </td>
     <td class="image-cell">
       <div class="image-container">
-          <img src="../images/talk_2.png" alt="Image"/><br><br></a>
+          <img src="../images/talk_2.png" alt="Image"/>
       </div>
     </td>
   </tr>
