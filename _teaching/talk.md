@@ -1,5 +1,5 @@
 ---
-title: "I also want to be an engineer"
+title: "I Also Want to Be an Engineer"
 collection: personal
 permalink: /personal/talk
 description: "I spoke to students at my former high school about pursuing a degree in Computer Science and job opportunities"
@@ -12,3 +12,47 @@ I took the opportunity to share my personal journey with the last-year students 
 As Jean-Paul Sartre said, "Happiness is not doing what you want but wanting what you do."
 
 You can find the slides (CAT) [here](https://lauragalera.github.io/files/I_also_want_to_be_an_engineer.pdf).
+
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border: none;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+    background-color: transparent;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
+  }
+  .image-cell {
+    width: 33.33%;
+    border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
+  }
+  .image-container {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+  }
+  .caption {
+    font-size: 16px; /* Adjust the font size for the caption */
+    font-weight: bold; /* Add bold style to the caption */
+  }
+</style>
+
+<table>
+  <tr>
+    <td class="image-cell">
+      <div class="image-container">
+          <img src="../images/talk_1.png" alt="Image"/><br><br></a>
+      </div>
+    </td>
+    <td class="image-cell">
+      <div class="image-container">
+          <img src="../images/talk_2.png" alt="Image"/><br><br></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+<table>
