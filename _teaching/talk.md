@@ -27,17 +27,13 @@ You can find the slides (CAT) [here](https://lauragalera.github.io/files/I_also_
     border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
   }
   .image-cell {
-    width: 33.33%;
+    width: 60%;
     border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
   }
   .image-container {
     display: block;
     margin: 0 auto;
     width: 50%;
-  }
-  .caption {
-    font-size: 16px; /* Adjust the font size for the caption */
-    font-weight: bold; /* Add bold style to the caption */
   }
 </style>
 
