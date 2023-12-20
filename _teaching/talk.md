@@ -2,7 +2,7 @@
 title: "I also want to be an engineer"
 collection: personal
 permalink: /personal/talk
-description: "I also want to be an engineer"
+description: "I spoke to students at my former high school about pursuing a degree in Computer Science and job opportunities"
 ---
 
 A nostalgic visit to my alma mater as the year comes to an end!
