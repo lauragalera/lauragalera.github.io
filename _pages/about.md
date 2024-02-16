@@ -12,7 +12,7 @@ I am a Data Engineer at [Edpuzzle](https://edpuzzle.com/), focused on designing,
  
 Prior to joining Edpuzzle, I earned an M.Sc. in Artificial Intelligence from [Stockholm University](https://www.su.se/cmlink/stockholm-university) and collaborated with Spotify on Explainability in AI for ranking models. I also obtained a B.Sc. in Computer Science with a specialization in Computing, from the [University of Girona](https://www.udg.edu/en/), and spent six months at the Institute for Genomics and Bioinformatics at the [University of California, Irvine](https://uci.edu/) conducting my final thesis on Convolutional Neural Networks. 
 
-My interests lie in the fields of databases and machine learning systems. They include data management, scalable data analysis, query processing, optimization for machine learning systems, and data-intensive applications.
+My interests lie in the fields of databases and machine learning systems. They include data-intensive applications, scalable data analysis, query processing, optimization for machine learning systems.
 
 In my free time, I enjoy working out and doing outdoor activities (hiking, skiing, swimming). I also dance bachata and play guitar. However, what I like the most is spending time with my cat [Joia](https://lauragalera.github.io/personal/joia).  
 
