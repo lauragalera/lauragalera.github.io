@@ -17,37 +17,32 @@ You can find the slides (CAT) [here](https://lauragalera.github.io/files/I_also_
   table {
     border-collapse: collapse;
     width: 100%;
-    border: none;
   }
   th, td {
-    text-align: left;
     background-color: transparent;
     text-align: center;
-    border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
+    border: none; /* No border */
   }
-  .image-cell {
-    width: 60%;
-    border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
-  }
-  .image-container {
-    display: block;
-    margin: 0 auto;
-    width: 50%;
+  .image-container img {
+    display: block; /* Block will take the full width of parent */
+    width: 100%;  /* This ensures the image takes up the full width of .image-container */
+    max-width: 100%; /* This prevents the image from becoming larger than its natural size */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 auto; /* Centering the image within the container */
   }
 </style>
 
 <table>
   <tr>
-    <td class="image-cell">
+    <td>
       <div class="image-container">
-          <img src="../images/talk_1.jpg" alt="Image"/>
+        <img src="../images/talk_1.jpg" alt="Image"/>
       </div>
     </td>
-    <td class="image-cell">
+    <td>
       <div class="image-container">
-          <img src="../images/talk_2.jpg" alt="Image"/>
+        <img src="../images/talk_2.jpg" alt="Image"/>
       </div>
     </td>
   </tr>
-  <tr>
-<table>
+</table>
