@@ -11,96 +11,33 @@ I was born on October 22nd 2022, after my abandoned mum was rescued. A total of 
 When I was two months old, I moved to Laura's house where I've been living my best life eating yummy food, chasing birds, and taking long *siestas*.
 
 
-<style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-    th, td {
-      background-color: transparent;
-      text-align: center;
-      border: none; /* No border */
-    }
-    .image-container img {
-      display: block; 
-      width: 100%;
-      max-width: 100%;
-      height: auto;
-      margin: 0 auto;
-    }
-</style>
-
-<table>
-    <tr>
-        <td>
-            <div class="image-container">
-                <img src="../images/baby.JPG" alt="Image"/>
-            </div>
-        </td>
-        <td>
-            <div class="image-container">
-                <img src="../images/brothers.JPG" alt="Image"/>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <div class="image-container">
-                <img src="../images/IMG_7632.JPG" alt="Image"/>
-            </div>
-        </td>
-        <td>
-            <div class="image-container">
-                <img src="../images/IMG_7852.JPG" alt="Image"/>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <div class="image-container">
-                <img src="../images/IMG_8102.JPG" alt="Image"/>
-            </div>
-        </td>
-        <td>
-            <div class="image-container">
-                <img src="../images/IMG_8187.JPG" alt="Image"/>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <div class="image-container">
-                <img src="../images/IMG_8541.JPG" alt="Image"/>
-            </div>
-        </td>
-        <td>
-            <div class="image-container">
-                <img src="../images/IMG_8561.JPG" alt="Image"/>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <div class="image-container">
-                <img src="../images/IMG_9290.JPG" alt="Image"/>
-            </div>
-        </td>
-        <td>
-            <div class="image-container">
-                <img src="../images/IMG_9338.JPG" alt="Image"/>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <div class="image-container">
-                <img src="../images/IMG_8661.JPG" alt="Image"/>
-            </div>
-        </td>
-        <td>
-            <div class="image-container">
-                <img src="../images/IMG_9377.JPG" alt="Image"/>
-            </div>
-        </td>
-    </tr>
-</table>
+<p align="center">
+  <img src="../images/baby.JPG" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../images/brothers.JPG" width="45%" /> 
+</p>
+<p align="center">
+  <img src="../images/IMG_7632.JPG" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../images/IMG_7852.JPG" width="45%" /> 
+</p>
+<p align="center">
+  <img src="../images/IMG_8102.JPG" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../images/IMG_8187.JPG" width="45%" /> 
+</p>
+<p align="center">
+  <img src="../images/IMG_8541.JPG" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../images/IMG_8561.JPG" width="45%" /> 
+</p>
+<p align="center">
+  <img src="../images/IMG_9290.JPG" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../images/IMG_9338.JPG" width="45%" /> 
+</p>
+<p align="center">
+  <img src="../images/IMG_8661.JPG" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../images/IMG_9377.JPG" width="45%" /> 
+</p>
