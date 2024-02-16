@@ -24,11 +24,11 @@ You can find the slides (CAT) [here](https://lauragalera.github.io/files/I_also_
     border: none; /* No border */
   }
   .image-container img {
-    display: block; /* Block will take the full width of parent */
-    width: 100%;  /* This ensures the image takes up the full width of .image-container */
-    max-width: 100%; /* This prevents the image from becoming larger than its natural size */
-    height: auto; /* Maintain aspect ratio */
-    margin: 0 auto; /* Centering the image within the container */
+    display: block; 
+    width: 100%; 
+    max-width: 100%; 
+    height: auto;
+    margin: 0 auto; 
   }
 </style>
 
