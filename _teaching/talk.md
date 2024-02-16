@@ -1,5 +1,5 @@
 ---
-title: "I Also Want to Be an Engineer"
+title: "I also want to be an engineer"
 collection: personal
 permalink: /personal/talk
 description: "Spoke to students about Computer Engineering and job opportunities."
@@ -20,7 +20,6 @@ You can find the slides (CAT) [here](https://lauragalera.github.io/files/I_also_
     border: none;
   }
   th, td {
-    padding: 8px;
     text-align: left;
     background-color: transparent;
     text-align: center;
