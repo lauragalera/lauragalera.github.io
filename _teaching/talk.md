@@ -2,7 +2,6 @@
 title: "I also want to be an engineer"
 collection: personal
 permalink: /personal/talk
-description: "Spoke to students about Computer Engineering and job opportunities."
 ---
 
 A nostalgic visit to my former high school as the year comes to an end!
