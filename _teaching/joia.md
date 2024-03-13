@@ -2,7 +2,6 @@
 title: "Joia, my siamese cat"
 collection: personal
 permalink: /personal/joia
-description: "What would my cat say if she could talk?"
 ---
 
 Hi, my name is Joia (Jewel in Catalan). Glamorous, right? However, I go by "Joia" only in public because Laura would be too embarrassed if someone knew all the corny names she calls me by when we're alone.

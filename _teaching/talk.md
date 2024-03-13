@@ -1,8 +1,7 @@
 ---
-title: "I Also Want to Be an Engineer"
+title: "I also want to be an engineer"
 collection: personal
 permalink: /personal/talk
-description: "Spoke to students about Computer Engineering and job opportunities."
 ---
 
 A nostalgic visit to my former high school as the year comes to an end!
@@ -17,38 +16,32 @@ You can find the slides (CAT) [here](https://lauragalera.github.io/files/I_also_
   table {
     border-collapse: collapse;
     width: 100%;
-    border: none;
   }
   th, td {
-    padding: 8px;
-    text-align: left;
     background-color: transparent;
     text-align: center;
-    border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
+    border: none; /* No border */
   }
-  .image-cell {
-    width: 60%;
-    border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
-  }
-  .image-container {
-    display: block;
-    margin: 0 auto;
-    width: 50%;
+  .image-container img {
+    display: block; 
+    width: 100%; 
+    max-width: 100%; 
+    height: auto;
+    margin: 0 auto; 
   }
 </style>
 
 <table>
   <tr>
-    <td class="image-cell">
+    <td>
       <div class="image-container">
-          <img src="../images/talk_1.jpg" alt="Image"/>
+        <img src="../images/talk_1.jpg" alt="Image"/>
       </div>
     </td>
-    <td class="image-cell">
+    <td>
       <div class="image-container">
-          <img src="../images/talk_2.jpg" alt="Image"/>
+        <img src="../images/talk_2.jpg" alt="Image"/>
       </div>
     </td>
   </tr>
-  <tr>
-<table>
+</table>
