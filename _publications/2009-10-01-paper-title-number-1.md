@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/local-interpretable-ml
 date: 2024-06-14
 venue: 'Swedish Artificial Intelligence Society Conference'
+excerpt: 'This paper is about LIME converted to Learning-To-Rank tasks'
 paperurl: 'https://doi.org/10.3384/ecp208017 '
 citation: '
     Amir Hossein Akhavan Rahnama, <b>Laura Galera Alfaro</b>, Zhendong Wang, Maria Movin. (2024). &quot; Local Interpretable Model-Agnostic Explanations for Neural Ranking Models. &quot; <i>Swedish Artificial Intelligence Society</i>.'
