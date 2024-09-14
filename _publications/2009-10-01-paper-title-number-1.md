@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Local Interpretable Model-Agnostic Explanations for Neural Ranking Models "
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/local-interpretable-ml
+date: 2024-06-14
+venue: 'Swedish Artificial Intelligence Society Conference'
+paperurl: 'https://doi.org/10.3384/ecp208017 '
+citation: '
+    Amir Hossein Akhavan Rahnama, <b>Laura Galera Alfaro</b>, Zhendong Wang, Maria Movin. (2024). &quot; Local Interpretable Model-Agnostic Explanations for Neural Ranking Models. &quot; <i>Swedish Artificial Intelligence Society</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<b>Abstract:</b> 
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Neural Ranking Models have shown state-of-the-art performance in Learning-To-Rank (LTR) tasks. However, they are considered black-box models. Understanding the logic behind the predictions of such black-box models is paramount for their adaptability in the real-world and high-stake decision-making domains. Local explanation techniques can help us understand the importance of features in the dataset relative to the predicted output of these black-box models. This study investigates new adaptations of Local Interpretable Model-Agnostic Explanation (LIME) explanation for explaining Neural ranking models. To evaluate our proposed explanation, we explain Neural GAM models. Since these models are intrinsically interpretable Neural Ranking Models, we can directly extract their ground truth importance scores. We show that our explanation of Neural GAM models is more faithful than explanation techniques developed for LTR applications such as LIRME and EXS and non-LTR explanation techniques for regression models such as LIME and KernelSHAP using measures such as Rank Biased Overlap (RBO) and Overlap AUC. Our analysis is performed on the Yahoo! Learning-To-Rank Challenge dataset. 
+
+[Download paper here](https://doi.org/10.3384/ecp208017 )
