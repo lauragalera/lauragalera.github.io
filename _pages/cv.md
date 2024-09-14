@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last update on September 13, 2024
+Last update on September 13, 2024. [Link][https://lauragalera.github.io/files/resume.pdf]
 
 <object
   type="application/pdf"
