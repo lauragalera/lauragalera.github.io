@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last update 13/09/2024
+Last update on September 13, 2024
 
 <object
   type="application/pdf"
