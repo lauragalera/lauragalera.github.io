@@ -14,6 +14,6 @@ Prior to joining Edpuzzle, I earned a M.Sc. in Artificial Intelligence from [Sto
 
 My interests lie in the fields of databases and machine learning systems. They include data-intensive applications, scalable data analysis, query processing, and optimization for machine learning systems.
 
-In my free time, I enjoy working out and doing outdoor activities (hiking, skiing, swimming). I also dance bachata and play guitar. However, what I like the most is spending time with my cat [Joia](https://lauragalera.github.io/personal/joia).  
+In my free time, I enjoy working out and doing outdoor activities (hiking, skiing, swimming). I also dance bachata and play guitar. However, what I like the most is spending time with my cat [Fresa](https://lauragalera.github.io/personal/fresa).  
 
 Feel free to contact me on Linkedin if you want to get in touch.
