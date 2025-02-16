@@ -39,20 +39,27 @@ author_profile: true
     <tr>
         <td class="image-cell">
         <div class="image-container">
+          <a href="https://www.credly.com/badges/96bf6cff-a8dd-405b-83fa-b3a468c1c1aa/public_url">
+            <img src="../images/aws_dv.png" alt="Image"/><br><br></a>
+          <span class="caption">AWS Developer Associate</span>
+        </div>
+      </td>
+        <td class="image-cell">
+        <div class="image-container">
           <a href="https://www.credly.com/badges/77aae646-47d9-46ea-a38b-a177b307bcbe/public_url">
             <img src="../images/aws_de.png" alt="Image"/><br><br></a>
           <span class="caption">AWS Data Engineer Associate</span>
         </div>
       </td>
-    <td class="image-cell">
+    </tr>
+    <tr>
+        <td class="image-cell">
         <div class="image-container">
           <a href="https://www.credly.com/badges/41951d72-d841-4a7f-8927-d64a4428f162/public_url">
             <img src="../images/aws_sa.png" alt="Image"/><br><br></a>
           <span class="caption">AWS Solutions Architect Associate</span>
         </div>
       </td>
-    </tr>
-    <tr>
     <td class="image-cell">
       <div class="image-container">
         <a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/">
