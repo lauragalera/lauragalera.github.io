@@ -47,7 +47,7 @@ author_profile: true
 </style>
 
 <div class="certificate-grid">
-  <a href="#" class="certificate-item">
+  <a href="https://www.credly.com/badges/f02d1cda-dbd7-4a68-8e94-38f5513a38f2" class="certificate-item">
     <img src="../images/aws_ml.png" alt="Machine Learning Engineer"/>
     <div class="caption">Machine Learning Engineer</div>
   </a>

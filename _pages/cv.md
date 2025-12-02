@@ -17,7 +17,7 @@ You can download my CV directly:
 <iframe
   src="https://lauragalera.github.io/files/cv_laura.pdf"
   width="100%"
-  height="600px"
+  height="1000px"
   style="border: 1px solid #ccc; margin: 20px 0; display: block;"
 >
   <p>Your browser does not support PDFs. <a href="/files/cv_laura.pdf">Download the CV here.</a></p>
