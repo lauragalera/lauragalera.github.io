@@ -1,6 +1,12 @@
 # main links links
 main:
 
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Resources"
+    url: /resources/
+
   - title: "CV"
     url: /cv/
 
