@@ -17,15 +17,10 @@ author_profile: true
   }
   .certificate-item {
     text-align: center;
-    transition: all 0.3s ease;
     cursor: pointer;
     text-decoration: none;
     color: inherit;
     display: block;
-  }
-  .certificate-item:hover {
-    transform: translateY(-5px);
-    opacity: 0.8;
   }
   .certificate-item img {
     width: 220px;
@@ -34,11 +29,20 @@ author_profile: true
     display: block;
     margin-left: auto;
     margin-right: auto;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  .certificate-item:hover img {
+    transform: scale(1.05);
+    opacity: 0.85;
   }
   .certificate-item .caption {
     font-size: 16px;
     font-weight: bold;
     margin-top: 10px;
+    transition: color 0.3s ease;
+  }
+  .certificate-item:hover .caption {
+    color: #0066cc;
   }
 </style>
 
