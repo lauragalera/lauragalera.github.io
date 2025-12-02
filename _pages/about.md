@@ -1,11 +1,17 @@
 ---
 permalink: /
-title: "¡Hola!"
+title: "¡Hola!👋"
 excerpt: "Data Engineer & AI Enthusiast"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
+
+
+
+I'm a **Data Engineer** at [Edpuzzle](https://edpuzzle.com/), passionate about building scalable data systems and ML infrastructure. I specialize in designing, maintaining, and optimizing AWS-based cloud architectures that power data-intensive applications.
+
 ---
 
 ## 💼 Current Role
