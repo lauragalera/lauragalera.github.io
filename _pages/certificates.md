@@ -11,31 +11,29 @@ author_profile: true
   .certificate-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 30px;
+    gap: 50px;
     margin: 20px 0;
-    max-width: 600px;
+    max-width: 800px;
   }
   .certificate-item {
     text-align: center;
     transition: all 0.3s ease;
     cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+    display: block;
   }
   .certificate-item:hover {
     transform: translateY(-5px);
     opacity: 0.8;
   }
   .certificate-item img {
-    width: 150px;
+    width: 220px;
     height: auto;
     margin-bottom: 15px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-  }
-  .certificate-item a {
-    text-decoration: none;
-    color: inherit;
-    display: block;
   }
   .certificate-item .caption {
     font-size: 16px;
@@ -46,10 +44,10 @@ author_profile: true
 
 <div class="certificate-grid">
   <a href="#" class="certificate-item">
-    <img src="../images/ml_engineer.png" alt="Machine Learning Engineer"/>
+    <img src="../images/aws_ml.png" alt="Machine Learning Engineer"/>
     <div class="caption">Machine Learning Engineer</div>
   </a>
-  
+
   <a href="https://www.credly.com/badges/96bf6cff-a8dd-405b-83fa-b3a468c1c1aa/public_url" class="certificate-item">
     <img src="../images/aws_dv.png" alt="AWS Developer Associate"/>
     <div class="caption">AWS Developer Associate</div>

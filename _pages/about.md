@@ -12,7 +12,6 @@ redirect_from:
 
 I'm a **Data Engineer** at [Edpuzzle](https://edpuzzle.com/), passionate about building scalable data systems and ML infrastructure. I specialize in designing, maintaining, and optimizing AWS-based cloud architectures that power data-intensive applications.
 
----
 
 ## 💼 Current Role
 
@@ -22,7 +21,6 @@ At Edpuzzle, I focus on:
 - **Cloud Infrastructure**: Leveraging AWS services (S3, Glue, Redshift, Lambda) for scalable analytics
 - **Database Integration**: Ensuring seamless connectivity and data consistency across multiple systems
 
----
 
 ## 🎓 Education
 
@@ -34,7 +32,6 @@ At Edpuzzle, I focus on:
 - **Research Experience** — [UC Irvine Institute for Genomics and Bioinformatics](https://uci.edu/)
   - *Final thesis on Convolutional Neural Networks for genomic analysis*
 
----
 
 ## 🎯 Research & Technical Interests
 
@@ -44,7 +41,6 @@ My expertise and passion center on:
 - **Database Technologies**: Indexing, querying, and performance optimization
 - **Cloud Computing**: AWS ecosystem, infrastructure as code, and serverless architectures
 
----
 
 ## 🌱 Beyond Work
 
@@ -54,7 +50,6 @@ When I'm not working with data, you'll find me:
 - 🎵 **Music & Dance**: Playing guitar and dancing bachata
 - 🐱 **Pet Parent**: Spending quality time with my beloved cat [Fresa](https://lauragalera.github.io/personal/fresa)
 
----
 
 ## 📬 Let's Connect
 
