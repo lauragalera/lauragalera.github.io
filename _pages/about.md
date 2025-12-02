@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome! 👋
-
-I'm a **Data Engineer** at [Edpuzzle](https://edpuzzle.com/), passionate about building scalable data systems and ML infrastructure. I specialize in designing, maintaining, and optimizing AWS-based cloud architectures that power data-intensive applications.
-
----
-
 ## 💼 Current Role
 
 At Edpuzzle, I focus on:
@@ -49,7 +43,7 @@ My expertise and passion center on:
 ## 🌱 Cosplay
 
 When I'm not working with data, you'll find me:
-- 🎭 **Cosplaying**: Creating Costumes from Animes and Video Games
+- 🎭 **Creating and Designing Costumes from Animes, Mangas, and Video Games**: Expressing creativity through character interpretation from my favorite franchises
 - 🏃‍♀️ **Fitness & Outdoors**: Working out, hiking, skiing, swimming
 - 🎵 **Music & Dance**: Playing guitar and dancing bachata
 - 🐱 **Pet Parent**: Spending quality time with my beloved cat [Fresa](https://lauragalera.github.io/personal/fresa)
