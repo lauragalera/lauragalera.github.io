@@ -15,7 +15,7 @@ Here you'll find presentations, resumes, and other resources related to my work 
 
 ### 💼 Professional Documents
 - **[Resume (Current)](/files/resume.pdf)** - My current professional resume and experience
-- **[CV](/files/CV.pdf)** - Detailed Curriculum Vitae
+- **[CV](/files/cv_laura.pdf)** - Detailed Curriculum Vitae
 
 ### 📚 Additional Resources
 - **[Engineering Aspirations](/files/I_also_want_to_be_an_engineer.pdf)** - Thoughts on becoming an engineer
