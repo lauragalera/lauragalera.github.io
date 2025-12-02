@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Laura Galera"
 title_separator          : "-"
 name                     : &name "Laura Galera"
-description              : &description "Data Engineer at Edpuzzle"
+description              : &description "Data Engineer | AWS Specialist | Machine Learning Enthusiast | Barcelona"
 url                      : https://lauragalera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lauragalera/lauragalera.github.io"
@@ -55,6 +55,9 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+# Keywords for SEO
+keywords: "data engineering, aws, machine learning, data science, etl, redshift, spark, python, data lakes, analytics, backend development"
+
 # Social Sharing
 twitter:
   username               : &twitter
@@ -66,9 +69,13 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Laura Galera
+  links:
+    - "https://twitter.com/"
+    - "https://www.linkedin.com/in/laura-galera-9a388016a"
+    - "https://github.com/lauragalera"
+    - "https://stackoverflow.com/users/12348862/laura-galera"
 
 
 # Analytics
@@ -82,7 +89,7 @@ analytics:
 author:
   name             : "Laura Galera"
   avatar           : "profile.jpg"
-  bio              : "Data Engineer @ Edpuzzle"
+  bio              : "Data Engineer @ Edpuzzle | AWS | Machine Learning"
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : 
@@ -106,7 +113,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/12348862/laura-galera"
+  stackoverflow    : "12348862/laura-galera"
   steam            :
   tumblr           :
   twitter          : 

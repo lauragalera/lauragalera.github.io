@@ -5,8 +5,16 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
+<div class="feature__wrapper">
+  <div class="feature__item">
+    <div class="archive__item">
+      <h2 class="archive__item-title">Featured Projects</h2>
+      <p class="archive__item-excerpt">
+        A collection of data engineering, machine learning, and software development projects showcasing problem-solving abilities and technical expertise.
+      </p>
+    </div>
+  </div>
+</div>
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
