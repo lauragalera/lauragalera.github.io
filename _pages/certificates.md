@@ -10,9 +10,10 @@ author_profile: true
 <style>
   .certificate-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: 30px;
     margin: 20px 0;
+    max-width: 600px;
   }
   .certificate-item {
     text-align: center;
@@ -44,6 +45,11 @@ author_profile: true
 </style>
 
 <div class="certificate-grid">
+  <a href="#" class="certificate-item">
+    <img src="../images/ml_engineer.png" alt="Machine Learning Engineer"/>
+    <div class="caption">Machine Learning Engineer</div>
+  </a>
+  
   <a href="https://www.credly.com/badges/96bf6cff-a8dd-405b-83fa-b3a468c1c1aa/public_url" class="certificate-item">
     <img src="../images/aws_dv.png" alt="AWS Developer Associate"/>
     <div class="caption">AWS Developer Associate</div>
@@ -62,11 +68,6 @@ author_profile: true
   <a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/" class="certificate-item">
     <img src="../images/neo4j.png" alt="Neo4j Certified Professional"/>
     <div class="caption">Neo4j Certified Professional</div>
-  </a>
-  
-  <a href="#" class="certificate-item">
-    <img src="../images/ml_engineer.png" alt="Machine Learning Engineer"/>
-    <div class="caption">Machine Learning Engineer</div>
   </a>
 </div>
 

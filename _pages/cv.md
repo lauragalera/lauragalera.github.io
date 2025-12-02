@@ -7,11 +7,9 @@ redirect_from:
   - /resume
 ---
 
-## Curriculum Vitae
-
 **Last updated: December 2, 2025**
 
-Below you'll find my complete CV. You can also download it directly:
+You can download my CV directly:
 - [📄 Download CV](/files/cv_laura.pdf)
 
 ---
