@@ -49,6 +49,7 @@ My expertise and passion center on:
 ## 🌱 Beyond Work
 
 When I'm not working with data, you'll find me:
+- 🎭 **Cosplay**: Creating and designing costumes, expressing creativity through character interpretation
 - 🏃‍♀️ **Fitness & Outdoors**: Working out, hiking, skiing, swimming
 - 🎵 **Music & Dance**: Playing guitar and dancing bachata
 - 🐱 **Pet Parent**: Spending quality time with my beloved cat [Fresa](https://lauragalera.github.io/personal/fresa)
