@@ -8,68 +8,67 @@ author_profile: true
 {% include base_path %}
 
 <style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    border: none;
+  .certificate-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    margin: 20px 0;
   }
-  th, td {
-    padding: 8px;
-    text-align: left;
-    background-color: transparent;
+  .certificate-item {
     text-align: center;
-    border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
+    transition: all 0.3s ease;
+    cursor: pointer;
   }
-  .image-cell {
-    width: 33.33%;
-    border: 1px solid rgba(0, 0, 0, 0); /* Set border color to fully transparent */
+  .certificate-item:hover {
+    transform: translateY(-5px);
+    opacity: 0.8;
   }
-  .image-container {
+  .certificate-item img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 15px;
     display: block;
-    margin: 0 auto;
-    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
   }
-  .caption {
-    font-size: 16px; /* Adjust the font size for the caption */
-    font-weight: bold; /* Add bold style to the caption */
+  .certificate-item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+  .certificate-item .caption {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
   }
 </style>
 
-<table>
-    <tr>
-        <td class="image-cell">
-        <div class="image-container">
-          <a href="https://www.credly.com/badges/96bf6cff-a8dd-405b-83fa-b3a468c1c1aa/public_url">
-            <img src="../images/aws_dv.png" alt="Image"/><br><br></a>
-          <span class="caption">AWS Developer Associate</span>
-        </div>
-      </td>
-        <td class="image-cell">
-        <div class="image-container">
-          <a href="https://www.credly.com/badges/77aae646-47d9-46ea-a38b-a177b307bcbe/public_url">
-            <img src="../images/aws_de.png" alt="Image"/><br><br></a>
-          <span class="caption">AWS Data Engineer Associate</span>
-        </div>
-      </td>
-    </tr>
-    <tr>
-        <td class="image-cell">
-        <div class="image-container">
-          <a href="https://www.credly.com/badges/41951d72-d841-4a7f-8927-d64a4428f162/public_url">
-            <img src="../images/aws_sa.png" alt="Image"/><br><br></a>
-          <span class="caption">AWS Solutions Architect Associate</span>
-        </div>
-      </td>
-    <td class="image-cell">
-      <div class="image-container">
-        <a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/">
-          <img src="../images/neo4j.png" alt="Image"/><br><br></a>
-         <span class="caption"> Neo4j Certified Professional</span>
-      </div>
-    </td>
-  </tr>
-  <tr>
-<table>
+<div class="certificate-grid">
+  <a href="https://www.credly.com/badges/96bf6cff-a8dd-405b-83fa-b3a468c1c1aa/public_url" class="certificate-item">
+    <img src="../images/aws_dv.png" alt="AWS Developer Associate"/>
+    <div class="caption">AWS Developer Associate</div>
+  </a>
+  
+  <a href="https://www.credly.com/badges/77aae646-47d9-46ea-a38b-a177b307bcbe/public_url" class="certificate-item">
+    <img src="../images/aws_de.png" alt="AWS Data Engineer Associate"/>
+    <div class="caption">AWS Data Engineer Associate</div>
+  </a>
+  
+  <a href="https://www.credly.com/badges/41951d72-d841-4a7f-8927-d64a4428f162/public_url" class="certificate-item">
+    <img src="../images/aws_sa.png" alt="AWS Solutions Architect Associate"/>
+    <div class="caption">AWS Solutions Architect Associate</div>
+  </a>
+  
+  <a href="https://graphacademy.neo4j.com/c/4bbe6414-788d-4ca7-854c-0c938f80a26f/" class="certificate-item">
+    <img src="../images/neo4j.png" alt="Neo4j Certified Professional"/>
+    <div class="caption">Neo4j Certified Professional</div>
+  </a>
+  
+  <a href="#" class="certificate-item">
+    <img src="../images/ml_engineer.png" alt="Machine Learning Engineer"/>
+    <div class="caption">Machine Learning Engineer</div>
+  </a>
+</div>
 
 
 
